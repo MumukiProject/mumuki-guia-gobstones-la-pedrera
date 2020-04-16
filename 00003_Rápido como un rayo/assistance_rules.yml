@@ -1,0 +1,5 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: submission_failed
+  then: el auto no puede ir por el pasto y tiene que terminar en la meta
