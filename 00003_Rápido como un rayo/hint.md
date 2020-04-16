@@ -1,0 +1,1 @@
+Para ir al borde de la pista hay que mover al auto mientras no haya pasto.
