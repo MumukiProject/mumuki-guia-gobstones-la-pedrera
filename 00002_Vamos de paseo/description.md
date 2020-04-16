@@ -1,6 +1,6 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-la-pedrera/master/assets/toolbox_1587055725907.xml"></gs-toolbox>
 
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-la-pedrera/master/assets/attires/config_1587056115365.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-la-pedrera/master/assets/attires/config_1587060518570.json"></gs-attire>
 
 Ya prendimos el auto y suena su motor, ¡hagamos que se mueva! :race_car:
 
