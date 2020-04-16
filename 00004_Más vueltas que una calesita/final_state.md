@@ -1,5 +1,6 @@
 <gs-board> GBB/1.0
 size 7 6
+cell 0 5 Rojo 10 
 cell 0 4 Rojo 10 
 cell 1 4 Verde 7 
 cell 2 4 Verde 7 
@@ -27,31 +28,3 @@ cell 3 0 Rojo 10
 cell 4 0 Rojo 10 
 head 1 1
  </gs-board>
-<gs-board> GBB/1.0
-size 5 5
-cell 0 3 Rojo 10 
-cell 1 3 Verde 7 
-cell 2 3 Verde 7 
-cell 3 3 Verde 7 
-cell 4 3 Verde 7 
-cell 0 2 Rojo 10 
-cell 1 2 Verde 7 
-cell 2 2 Rojo 10 
-cell 3 2 Rojo 10 
-cell 4 2 Rojo 10 
-cell 0 1 Rojo 10 
-cell 1 1 Verde 7 
-cell 2 1 Rojo 10 
-cell 3 1 Rojo 10 
-cell 4 1 Rojo 10 
-cell 0 0 Rojo 10 
-cell 1 0 Azul 1 Negro 1 Rojo 1 Verde 7 
-cell 2 0 Verde 7 
-cell 3 0 Verde 7 
-cell 4 0 Verde 7 
-cell 0 -1 Rojo 10 
-cell 1 -1 Rojo 10 
-cell 2 -1 Rojo 10 
-cell 3 -1 Rojo 10 
-cell 4 -1 Rojo 10 
-head 1 1 </gs-board>
