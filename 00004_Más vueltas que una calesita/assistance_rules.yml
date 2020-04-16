@@ -1,0 +1,5 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: submission_failed
+  then: no modifiques la cantidad de vueltas. Primero debe hacer 5 y luego 2
