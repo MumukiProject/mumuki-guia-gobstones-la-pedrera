@@ -23,7 +23,7 @@ expectations:
   inspection: Not:UsesWhile
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: IrAlBordeDeLaPista
-  inspection: Uses:hayPasto
+  inspection: Uses:hayPastoAl_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: IrAlBordeDeLaPista
   inspection: UsesWhile
