@@ -4,4 +4,4 @@
 
 Ya prendimos el auto y suena su motor, ¡hagamos que se mueva por la pista! :race_car:
 
-> Creá el programa para que el auto (bolitas roja y negra) llegue a la esquina inferior derecha. Para eso, definí e invocá el procedimiento `Mover auto al` para que mueva al auto en la dirección que recibe por parámetro.
+> Creá el programa para que el auto (bolitas roja y negra) llegue a la esquina inferior izquierda. Para eso, definí e invocá el procedimiento `Mover auto al` para que mueva al auto en la dirección que recibe por parámetro.
