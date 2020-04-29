@@ -44,7 +44,7 @@ cell 0 2 Rojo 10
 cell 2 2 Rojo 10 
 cell 4 2 Rojo 10 
 cell 0 1 Rojo 10 
-cell 1 1 Azul 1 Rojo 1 Negro 1 
+cell 1 1 Azul 1 Negro 1 Rojo 1 
 cell 4 1 Rojo 10 
 cell 0 0 Rojo 10 
 cell 1 0 Rojo 10 

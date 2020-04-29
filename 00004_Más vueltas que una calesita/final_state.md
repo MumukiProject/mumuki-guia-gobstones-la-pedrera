@@ -62,7 +62,7 @@ cell 2 2 Rojo 10
 cell 3 2 Verde 7 
 cell 4 2 Rojo 10 
 cell 0 1 Rojo 10 
-cell 1 1 Verde 7 Azul 1 Negro 1 Rojo 1 
+cell 1 1 Azul 1 Negro 1 Rojo 1 Verde 7 
 cell 2 1 Verde 7 
 cell 3 1 Verde 7 
 cell 4 1 Rojo 10 
